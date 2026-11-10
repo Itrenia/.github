@@ -1,5 +1,10 @@
 ## itrenia
 
+todos:
+- create itrenia cloudflare account and migrate ownership of itrenia.com to it
+- prep for agm
+- shared UI design to be done by leme
+
 <!--
 
 **Here are some ideas to get you started:**
